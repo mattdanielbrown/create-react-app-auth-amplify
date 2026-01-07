@@ -6,7 +6,7 @@
     "aws-amplify": "^4.3.14",
     "@aws-amplify/ui-react": "^1.2.6",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react-dom": "^19.2.3",
     "react-scripts": "^5.0.0"
   },
   "resolutions": {
